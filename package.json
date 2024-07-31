@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Boas práticas em automação de testes com Cypress",
   "scripts": {
+    "lint": "npx standard",
+    "lint:fix": "npx standard --fix",
     "test": "cypress run",
     "cy:open": "cypress open"
   },
