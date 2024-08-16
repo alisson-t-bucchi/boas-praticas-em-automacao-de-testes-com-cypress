@@ -1,6 +1,14 @@
 {
   "hits": [
     {
+      "objectID": "2",
+      "title": "Software Craftsmanship",
+      "author": "Sandro Mancuso",
+      "url": "https://example.com/sm",
+      "num_comments": 133,
+      "points": 420
+    },
+    {
       "objectID": "0",
       "title": "Agile Testing",
       "author": "Lisa Crispin & Janet Gregory",
